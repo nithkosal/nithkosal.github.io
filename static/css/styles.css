@@ -4759,7 +4759,7 @@ body, html {
 .catamaran2-text h6{ 
 	font-family: 'Catamaran'; 
     font-size: 16.7px;
-    line-height: 17px;
+    line-height: 15px;
     font-weight: bold;
     color: #e72f11;
     margin: .3em 0;
@@ -4790,7 +4790,7 @@ body, html {
 .segoe p{ 
 	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
     font-size: 16.4px;
-    line-height: 9px;
+    line-height: 8px;
 
 }
 /*------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -4807,4 +4807,11 @@ body, html {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.bre {
+    display: block;
+    margin-bottom: 10px;
 }

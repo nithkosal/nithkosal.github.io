@@ -4761,7 +4761,7 @@ body, html {
     font-size: 16.7px;
     line-height: 15px;
     font-weight: bold;
-    color: #e72f11;
+    color: #7c60a5;
     margin: .3em 0;
 }
 
@@ -4778,7 +4778,7 @@ body, html {
 	font-family: 'Quattrocento'; 
     font-size: 20px;
     line-height: 27px;
-    color: #0666aa;
+    color: #e72f11;
     margin: 0.2em 0;
 
 
@@ -4789,8 +4789,8 @@ body, html {
 /* This text is in Segoe UI in Research */
 .segoe p{ 
 	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
-    font-size: 16.4px;
-    line-height: 8px;
+    font-size: 16px;
+    line-height: 6px;
 
 }
 /*------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -4813,5 +4813,5 @@ body, html {
 
 .bre {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }

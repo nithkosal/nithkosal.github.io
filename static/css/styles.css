@@ -4815,3 +4815,77 @@ body, html {
     display: block;
     margin-bottom: 12px;
 }
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Image transition in Resources */
+
+/*.imaget{
+    display: flex;
+    justify-content: space-around;
+}*/
+
+.imaget-container{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://nithkosal.github.io/static/img/personal/OralP8.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 15s;
+    
+    animation-name: animate;
+    animation-direction: alternate-reverse;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out
+}
+
+@keyframes animate{
+    0%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/OralP8.jpg");
+    }20%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/OralP9.jpg");
+    }40%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/PV2019Aug.jpg");
+    }60%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/OralP10.JPG");
+    }80%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/LB01.jpg");
+    }100%{
+        background-image: url("https://nithkosal.github.io/static/img/personal/Rule2019.JPG");
+    }
+}
+
+/*.imaget-container imag{
+    height: 50%;
+    width: 50%;
+}
+
+.transition-imaget{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.transition-imaget:hover{
+    opacity: 1;
+}
+
+.fade::after {
+    content: "";
+    background: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+
+

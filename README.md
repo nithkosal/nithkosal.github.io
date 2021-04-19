@@ -1,4 +1,4 @@
-# kosalnith.github.io
+# nithkosal.github.io
 ![GitHub](https://img.shields.io/github/license/nithkosal/nithkosal.github.io?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nithkosal/nithkosal.github.io?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
@@ -12,18 +12,18 @@ Code this free access and download from [Sebastián Otero](https://github.com/se
 With this site you can find my work and my adventure, especially the useful and useful links related to economics, econometrics and the famous author in economics.
 
 #### Main Menu in This Page:
-- [Home](https://kosalnith.github.io), it presents general information about Kosal, what is new and recent work update. 
-- [Research](https://kosalnith.github.io/research.html), it shows the research publication, working paper, policy paper, book, report, and work in progress.  
-- [Articles](https://kosalnith.github.io/articles.html), the article and OpEds publications oo media and other websites. 
-- [Press](https://kosalnith.github.io/press.html), article and video interview about Kosal on social media and media related to research in economics, social issues, and forestation. 
-- [Speeches](https://kosalnith.github.io/speeches.html), it presents the speech title and PDF file for free available download. 
-- [Teaching](https://kosalnith.github.io/teaching.html), teach class that Kosal was teach by subject titles and course materials for free download. 
-- [Team](https://kosalnith.github.io/team.html), research and working team.
-- [Personal](https://kosalnith.github.io/personal.html), it reports personal information on working, traval, and social work. 
-- [Links](https://kosalnith.github.io/links.html), the important link sources in economics and econometrics that helpful for young economists and students.  
+- [Home](https://nithkosal.github.io), it presents general information about Kosal, what is new and recent work update. 
+- [Research](https://nithkosal.github.io/research.html), it shows the research publication, working paper, policy paper, book, report, and work in progress.  
+- [Articles](https://nithkosal.github.io/articles.html), the article and OpEds publications oo media and other websites. 
+- [Press](https://nithkosal.github.io/press.html), article and video interview about Kosal on social media and media related to research in economics, social issues, and forestation. 
+- [Speeches](https://nithkosal.github.io/speeches.html), it presents the speech title and PDF file for free available download. 
+- [Teaching](https://nithkosal.github.io/teaching.html), teach class that Kosal was teach by subject titles and course materials for free download. 
+- [Team](https://nithkosal.github.io/team.html), research and working team.
+- [Personal](https://nithkosal.github.io/personal.html), it reports personal information on working, traval, and social work. 
+- [Resources](https://nithkosal.github.io/resources.html), the important link sources in economics and econometrics that helpful for young economists and students.  
 
 
-Version: 1.0.6
+Version: 1.0.7
 
-Copyright: Nith Kosal 2018-2020. All rights reserved.
+© Nith Kosal 2018-2020. All rights reserved.
 

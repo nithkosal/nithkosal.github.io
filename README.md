@@ -25,5 +25,5 @@ With this site you can find my work and my adventure, especially the useful and 
 
 Version: 1.0.6
 
-Copyright: Nith Kosal 2018-2020. All rights reserved.
+© Nith Kosal 2018-2020. All rights reserved.
 

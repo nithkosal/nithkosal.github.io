@@ -20,7 +20,7 @@ With this site you can find my work and my adventure, especially the useful and 
 - [Teaching](https://kosalnith.github.io/teaching.html), teach class that Kosal was teach by subject titles and course materials for free download. 
 - [Team](https://kosalnith.github.io/team.html), research and working team.
 - [Personal](https://kosalnith.github.io/personal.html), it reports personal information on working, traval, and social work. 
-- [Links](https://kosalnith.github.io/links.html), the important link sources in economics and econometrics that helpful for young economists and students.  
+- [Resources](https://kosalnith.github.io/resources.html), the important link sources in economics and econometrics that helpful for young economists and students.  
 
 
 Version: 1.0.6

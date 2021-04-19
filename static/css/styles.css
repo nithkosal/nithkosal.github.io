@@ -4845,17 +4845,17 @@ body, html {
 
 @keyframes animate{
     0%{
-        background-image: url("https://nithkosal.github.io/static/img/adventure/OralP8.jpg");
+        background-image: url("https://nithkosal.github.io/static/img/adventure/PreahRokar2019.jpg");
     }20%{
-        background-image: url("https://nithkosal.github.io/static/img/adventure/OralP9.jpg");
+        background-image: url("https://nithkosal.github.io/static/img/adventure/AngkorRoad2021.jpg");
     }40%{
         background-image: url("https://nithkosal.github.io/static/img/adventure/SmilingGecko2021.jpg");
     }60%{
         background-image: url("https://nithkosal.github.io/static/img/adventure/Angkor2021.jpg");
     }80%{
-        background-image: url("https://nithkosal.github.io/static/img/adventure/LB01.jpg");
+        background-image: url("https://nithkosal.github.io/static/img/adventure/PreahVihear2021.jpg");
     }100%{
-        background-image: url("https://nithkosal.github.io/static/img/adventure/Rule2019.JPG");
+        background-image: url("https://nithkosal.github.io/static/img/adventure/PreyPreahRokar.jpg");
     }
 }
 

@@ -4984,6 +4984,18 @@ body, html {
     background-image: url("https://nithkosal.github.io/static/img/adventure/PV2017July.jpg")
 }
 
+
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
 /*.imaget-container imag{
     height: 50%;
     width: 50%;
